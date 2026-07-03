@@ -1,0 +1,9 @@
+.usercard {
+  background-color: rgb(252, 32, 32);
+  padding: 20px;
+  display: flex;
+  padding: 2px;
+}
+.main-image {
+  height: 100px;
+}
