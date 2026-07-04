@@ -2,7 +2,12 @@
   background-color: rgb(252, 32, 32);
   padding: 20px;
   display: flex;
-  padding: 2px;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  margin: 2px;
+  height: 200px;
+  width: 400px;
 }
 .main-image {
   height: 100px;
