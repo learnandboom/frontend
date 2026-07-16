@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kabir</h1>
+<h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">🚀 React Developer | JavaScript Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
@@ -78,8 +78,4 @@
 
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
