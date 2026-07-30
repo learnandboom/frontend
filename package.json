@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-dom": "^19.2.8",
+    "react-hook-form": "^7.83.0"
+  }
+}
